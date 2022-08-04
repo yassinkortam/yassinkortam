@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Yassin
 
 <!--
 **yassinkortam/yassinkortam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a rising Junior at UCLA studying electrical engineering and premed. 
+
+I'm currently working on creating a web-based platform for MSAs, and perhaps other student organizations, to reach new and current students more effectively.  
+
+I am also working to find ways to apply data science and machine learning to the medical field. 
+
+<a href="yassin.kortam@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/yassink/">LinkedIn</a>
