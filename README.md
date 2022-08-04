@@ -21,4 +21,4 @@ I'm currently working on creating a web-based platform for MSAs, and perhaps oth
 
 I am also working to find ways to apply data science and machine learning to the medical field. 
 
-<a href="yassin.kortam@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/yassink/">LinkedIn</a>
+<a href="mailto:yassin.kortam@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/yassink/">LinkedIn</a>
