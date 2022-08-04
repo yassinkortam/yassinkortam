@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 I'm a rising Junior at UCLA studying electrical engineering and premed. 
 
--Working on creating a web-based platform for MSAs, and perhaps other student organizations, to reach new and current students more effectively.  
-
--Developing a portable, compact podiatric device that measures shoe pressure points and aids in designing foot pads.
-
--Looking to find ways to apply data science and machine learning to the medical field. 
+<ul style="list-style-type:disc;">
+  <li>Working on creating a web-based platform for MSAs, and perhaps other student organizations, to reach new and current students more effectively.</li>
+  <li>Developing a portable, compact podiatric device that measures shoe pressure points and aids in designing foot pads.</li>
+  <li>Looking to find ways to apply data science and machine learning to the medical field.</li>
+</ul>  
 
 <a href="mailto:yassin.kortam@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/yassink/">LinkedIn</a>
