@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 I'm a rising Junior at UCLA studying electrical engineering and premed. 
 
 <ul style="list-style-type:disc;">
-  <li>Working on creating a web-based platform for MSAs, and perhaps other student organizations, to reach new and current students more effectively.</li>
-  <li>Developing a portable, compact podiatric device that measures shoe pressure points and aids in designing foot pads.</li>
+  <li>Working on creating a web-based platform for MSAs to reach new and current students more effectively.</li>
   <li>Looking to find ways to apply data science and machine learning to the medical field.</li>
 </ul>  
 
