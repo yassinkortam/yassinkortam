@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a rising Junior at UCLA studying electrical engineering and premed. 
+Dedicated UCLA student passionate about learning and applying cutting edge technology to the real world and finding simple solutions to complex problems. Building projects using machine learning, the cloud, and web development to make the world a better place. 
 
 <ul style="list-style-type:disc;">
   <li>Working on creating a web-based platform for MSAs to reach new and current students more effectively.</li>
