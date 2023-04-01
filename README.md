@@ -17,9 +17,4 @@ Here are some ideas to get you started:
 
 Dedicated UCLA student passionate about learning and applying cutting edge technology to the real world and finding simple solutions to complex problems. Building projects using machine learning, the cloud, and web development to make the world a better place. 
 
-<ul style="list-style-type:disc;">
-  <li>Working on creating a web-based platform for MSAs to reach new and current students more effectively.</li>
-  <li>Looking to find ways to apply data science and machine learning.</li>
-</ul>  
-
 <a href="mailto:yassin.kortam@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/yassink/">LinkedIn</a>
