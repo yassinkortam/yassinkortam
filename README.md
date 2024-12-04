@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Dedicated UCLA student passionate about learning and applying cutting edge technology to the real world and finding simple solutions to complex problems. Building projects using machine learning, the cloud, and web development to make the world a better place. 
+Software engineer at Cisco 
 
-<a href="mailto:yassin.kortam@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/yassink/">LinkedIn</a>
+<a href="mailto:yassinkortam@g.ucla.edu">Email</a> | <a href="https://www.linkedin.com/in/yassink/">LinkedIn</a>
