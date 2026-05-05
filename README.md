@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Software engineer at LiteLLM 
+Senior Software engineer at LiteLLM 
 
 <a href="mailto:yassinkortam@g.ucla.edu">Email</a> | <a href="https://www.linkedin.com/in/yassink/">LinkedIn</a>
